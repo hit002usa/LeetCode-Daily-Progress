@@ -24,7 +24,6 @@ public class RemoveColors {
         if (alice_cnt <= bob_cnt) {
             return false;
         }
-
         return true;
     }
 }
